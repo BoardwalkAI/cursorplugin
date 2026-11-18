@@ -1,0 +1,14 @@
+{
+  "name": "boardwalk",
+  "version": "1.1.1",
+  "description": "US planned-project filings and building permits: alerts, lists, and exports.",
+  "author": {
+    "name": "Boardwalk",
+    "email": "support@boardwalkai.com"
+  },
+  "homepage": "https://boardwalkai.com",
+  "repository": "https://github.com/BoardwalkAI/cursorplugin",
+  "license": "MIT",
+  "keywords": ["land-use", "building-permits", "construction", "real-estate"],
+  "logo": "assets/logo.svg"
+}
